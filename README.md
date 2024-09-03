@@ -20,7 +20,7 @@ Projct ini baru membuat untuk akun merchant
 ## 1. Clone project
 
 ```bash
-git clone https://asdasdasd
+git clone https://github.com/rachmadbud/marketplace-katering
 ```
 
 ## 2. Install Dependensi:
